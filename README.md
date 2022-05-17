@@ -1,5 +1,5 @@
-# Creating a web calculator
-# Github page - https://terencebc92.github.io/web-calculator/index.html
+# Creating a web calculator  
+Github page - https://terencebc92.github.io/web-calculator/index.html
 
 ## This is my application of the skills (HTML, CSS and Javascript) I have learned so far in the bootcamp.
 
